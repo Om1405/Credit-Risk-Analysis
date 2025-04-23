@@ -92,7 +92,7 @@ The analysis is based on two key datasets:
 ## 📁 Project Files
 
 - `CreditRiskAnalysis.ipynb`: Jupyter Notebook with complete code and visualizations.
-- `Datasets/`: Contains `application_data.csv` and `previous_application.csv`.
+- `Datasets/`: Contains `application_data.csv`, `previous_application.csv` and `columns_description.csv`.
 - `CreditRiskAnalysis_InsightsAndSuggestions.pdf`: PDF report with summarized findings.
 
 ---
