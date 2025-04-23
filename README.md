@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+# 💳 Credit Risk Analysis
 
 **Author**: Om Pawar  
 **Project Type**: Exploratory Data Analysis (EDA)  
